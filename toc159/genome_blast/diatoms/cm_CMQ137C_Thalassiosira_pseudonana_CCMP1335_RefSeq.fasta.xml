@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/diatoms//Thalassiosira_pseudonana_CCMP1335_RefSeq.fasta</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>@Cyanidioschyzon_merolae@_gnl|CMER|CMQ137C similar to chloroplast outer membrane protein Toc34</BlastOutput_query-def>
+  <BlastOutput_query-len>639</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>@Cyanidioschyzon_merolae@_gnl|CMER|CMQ137C similar to chloroplast outer membrane protein Toc34</Iteration_query-def>
+      <Iteration_query-len>639</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|2716</Hit_id>
+          <Hit_def>@T.pseudonana@gi|223994459|ref|XP_002286913.1| predicted protein [Thalassiosira pseudonana CCMP1335]</Hit_def>
+          <Hit_accession>2716</Hit_accession>
+          <Hit_len>287</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.8758</Hsp_bit-score>
+              <Hsp_score>63</Hsp_score>
+              <Hsp_evalue>4.24361</Hsp_evalue>
+              <Hsp_query-from>331</Hsp_query-from>
+              <Hsp_query-to>358</Hsp_query-to>
+              <Hsp_hit-from>130</Hsp_hit-from>
+              <Hsp_hit-to>160</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>17</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>3</Hsp_gaps>
+              <Hsp_align-len>31</Hsp_align-len>
+              <Hsp_qseq>LFAGTIG---AGKSATINRILGSPVARTNHT</Hsp_qseq>
+              <Hsp_hseq>LRVGIIGFPNVGKSALINRLLGKKRARTANT</Hsp_hseq>
+              <Hsp_midline>L  G IG    GKSA INR+LG   ART +T</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1053</Hit_id>
+          <Hit_def>@T.pseudonana@gi|224006520|ref|XP_002292220.1| predicted protein [Thalassiosira pseudonana CCMP1335]</Hit_def>
+          <Hit_accession>1053</Hit_accession>
+          <Hit_len>402</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.4906</Hsp_bit-score>
+              <Hsp_score>62</Hsp_score>
+              <Hsp_evalue>7.19988</Hsp_evalue>
+              <Hsp_query-from>377</Hsp_query-from>
+              <Hsp_query-to>449</Hsp_query-to>
+              <Hsp_hit-from>176</Hsp_hit-from>
+              <Hsp_hit-to>255</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>22</Hsp_identity>
+              <Hsp_positive>36</Hsp_positive>
+              <Hsp_gaps>7</Hsp_gaps>
+              <Hsp_align-len>80</Hsp_align-len>
+              <Hsp_qseq>LEVIEERSYEREREQRAHPNRKTEFVPSPNENVLIYPVEKEGMSLR-----LIEIPSSEKYF--YDEAGEDSKKWSRAGT</Hsp_qseq>
+              <Hsp_hseq>LDQMEEALEERSSDSYDDTARKHRAVQSLTENMMLYSEDDASFSSRQLNASMVSIPMVNELFPHHEEPSTSSTRVTRAST</Hsp_hseq>
+              <Hsp_midline>L+ +EE   ER  +      RK   V S  EN+++Y  +    S R     ++ IP   + F  ++E    S + +RA T</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|10055</Hit_id>
+          <Hit_def>@T.pseudonana@gi|224012333|ref|XP_002294819.1| predicted protein [Thalassiosira pseudonana CCMP1335]</Hit_def>
+          <Hit_accession>10055</Hit_accession>
+          <Hit_len>1638</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.4906</Hsp_bit-score>
+              <Hsp_score>62</Hsp_score>
+              <Hsp_evalue>8.41821</Hsp_evalue>
+              <Hsp_query-from>287</Hsp_query-from>
+              <Hsp_query-to>391</Hsp_query-to>
+              <Hsp_hit-from>661</Hsp_hit-from>
+              <Hsp_hit-to>774</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>32</Hsp_identity>
+              <Hsp_positive>48</Hsp_positive>
+              <Hsp_gaps>17</Hsp_gaps>
+              <Hsp_align-len>118</Hsp_align-len>
+              <Hsp_qseq>VGLQRRNYEEII-----------RGFGNDSRPGCATVN--QLVDVVRAHSPFRDATILFAGTIGAGKSATINRILGSPVARTNHTMALILSDDEILERDPEHGLEVIEERSYEREREQ</Hsp_qseq>
+              <Hsp_hseq>VGSAKRLYREVISSAVSLDSNESEAFALDFTRSDATSSSVELIDLVYAQETFESDELSTPSTLGKRNWALFAII---DVHSDNHSRVKTIRD-KVREAFAETGIRVVEQRSLCEDRAQ</Hsp_hseq>
+              <Hsp_midline>VG  +R Y E+I             F  D     AT +  +L+D+V A   F    +    T+G    A    I    V   NH+    + D ++ E   E G+ V+E+RS   +R Q</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>11673</Statistics_db-num>
+          <Statistics_db-len>5820680</Statistics_db-len>
+          <Statistics_hsp-len>101</Statistics_hsp-len>
+          <Statistics_eff-space>2497238366</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
