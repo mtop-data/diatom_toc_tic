@@ -1,0 +1,760 @@
+#NEXUS
+[saved by seaview on Mon Apr  8 16:55:34 2013]
+BEGIN DATA;
+  DIMENSIONS NTAX=60 NCHAR=623;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] cmToc34
+M----------------DSETPTKNEAEQRASPDRTGQVTQRPVSLFRKNGT--------
+---------------FAYPLEDSDVYEEQVLALEDVPEPTAQAILRLALAAERQGVPRLR
+FLVVGAPGVGKSSLINTLLNENLCSVSAWERGT--------KNAQVCARQV-----D-SV
+VIEFIDTPGIAPCRRSGLEASRRQVQRLR----KLLDA------RGADEHPYLRSFHAIL
+YVMRLDDTRPDLVDYHNWKVLMEFFGA---------------------------------
+---------EVLRHMMVVFTHGQS-LPPDSLSYPEYVRGRRDYVYLLI---ERLTG----
+PLKAVRFPVF---------VAENSSKCPVIEETGERKLPDDTP-------WITQLYDGIR
+RFVFPLEADLF---GMETGPEDTQVLVYIYDKRRSRADERYPRSPLQALIRNPWFLRAVQ
+FCGAMLLRSYMIRQEHERFNP-KPHHPEPIIRDANNAFAVASRRANDHRLFTPSIDEDEE
+SFFRMNGNDDFVSRLRNRPGEVDLDELDVERIESPDGRFVEYWYT-EKDNPEMVRMYRLE
+IRDDPNEERESRQDRIPISKDQH
+[2] acToc34	
+M-----------------------------------------------------------
+---------------------S--FLTREWVGIQQFPAATQTKLHEILGKLKQENVNTMT
+ILVMGKGGVGKSSTVNSILGERVATVSAFQSEG--------LRPIMCSRTR-----A-GF
+TLNVIDTPGIV----EGGYVNEQALEIIK----RFLLD------KTID---------VLL
+YVDRLDSYRVDNLDKQVVKAITDFLGK---------------------------------
+---------EIWQRGVVVLTHAQL-SPPDGLNYDDYLEKRSDALLKYV---RLGAGIKKK
+ELQGKGIPVA---------LVENSGRCK-TNEDGEKILPNGTA-------WIPNLVQQSQ
+T-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[3] vvtoc34	
+M-----------------------------------------------------------
+--------------------AS--QLIREWTGIQQFPPVTQTKLIELLGKLKQENVSTLT
+ILVMGKGGVGKSSTVNSIIGERAVAVSAFQSEG--------PRPVMVSRSR-----A-GF
+TLNIIDTPGLV----EGGYVNDQALEIIK----RFLLN------KTID---------VLL
+YVDRLDAYRVDNLDRQVVKAITDSFGK---------------------------------
+---------EIWRRGVVVLTHAQL-SPPDGLNYEDFFSKRSEALMKVV---RSGARLRKQ
+DIQDSGIPVV---------LVENSGRCH-KNESDEKILPNGTA-------WIPNLVKTIT
+DAVSNGSKGILVDKKLIEGPNPNE--------------------------RGKLLIPFIL
+AFQYFFIVKRIQRAIKSDMAK-ER--KAPWESREANRYEP--------------------
+------------------------------------------------------------
+-----------------------
+[4] 'stToc34-2'
+M-----------------------------------------------------------
+--------------------AS--QIIREWAGIQQFPAATQSKLLELLGKLKQENVSTLT
+ILVMGKGGVGKSSTVNSIIWERAVAVSAFQSET--------PRPVMVSRSR-----A-GF
+TLNIIDTPGLV----EGGYVNDQALDLIK----KFLLN------KTID---------VLL
+YVDRLDAYRVDNLDKQIVKAITDSFGK---------------------------------
+---------EIWRRGIVVLTHAQL-SPPDGLTYDEFTSRRSEALLKIV---RMGARIRKQ
+DIQAASIPVV---------LVENSGRCN-KNESDEKILPSGTA-------WIPNLVQTIT
+DAVLSGSKGILVDQKLIEGPNPNN--------------------------RGKVLIPFIL
+AFQYFFVVKRIQKSIKNDIAR-ES--RPAWA-----------------------------
+------------------------------------------------------------
+-----------------------
+[5] 'leToc34-2'
+M-----------------------------------------------------------
+--------------------AS--QIIREWAGIQQFPAATQSKLLELLGKLKQENVSTLT
+ILVMGKGGVGKSSTVNSIIGERAVAVSAFQSET--------PRPVMVSRSR-----A-GF
+TLNIIDTPGLV----EGGYVNDQALDLIK----KFLLN------KTID---------VLL
+YVDRLDAYRVDNLDKQIVKAITDIFGK---------------------------------
+---------EMWCRGIVVLTHAQL-SPPDGLTYEEFTSRRSEALLKIV---RMGARIRKQ
+DIQAASIPVV---------LVENSGRCN-KNESDEKILPSGIA-------WIPNLVQTIT
+DAVLSGSKGILVDQKLIEGPNPNN--------------------------RGKVLIPFIL
+AFQYFFVVKRIQRSIKNDIAR-ET--RPSWA-----------------------------
+------------------------------------------------------------
+-----------------------
+[6] 'leToc34-1'
+M-----------------------------------------------------------
+--------------------AS--QVIREWVGFQQFPSATQSKLIELIRKLKQESVSTVT
+ILVMGKGGVGKSSTVNSILGERAVAVSAFQSET--------PRPVMVSRSW-----A-EF
+TLNIIDTPGLV----EGGYVNDQALDLIK----RFLLN------KTID---------VLL
+YVDRLDTYRVDNLDRQIVKAITDSFGK---------------------------------
+---------GIWRRGLVVLTHAQV-SPPDGLSYDEFTSRRSEALLKIV---RLGARMKKQ
+EIKAASIPLV---------CVENSGRCN-KNELDEKILPNGTA-------WIPSILQTIT
+EVVVSQSKGILIDQKLIEGPNPNN--------------------------KGKLLIPLIA
+TFQYFFVVKRIQTWIKNDISR-EN--RPSWA-----------------------------
+------------------------------------------------------------
+-----------------------
+[7] 'stToc34-1'
+M-----------------------------------------------------------
+--------------------AS--QVIREWVGFQQFPSATQSKLIELIRKLKQESVSTLT
+ILVMGKGGVGKSSTVNSILGERAVAVSAFQSET--------PRPVMVSRSW-----A-EF
+TLNIIDTPGLV----EGGYVNDQALDLIK----RFLLN------KTID---------VLL
+YVDRLDTYRVDNLDRQIVKAITDSFGK---------------------------------
+---------EIWHRGLVVLTHAQV-SPPDGLSYDEFTSRRSEALSKIV---RLGARIRKQ
+EVKASSVPIV---------CVENSGRCN-KNELDEKILPNGTA-------WIPNLLQTIT
+EVVASESKGILVDQKLIEGPNPNN--------------------------KGKLLIPLIA
+AFQYFFVVKRIQKWIKNDIAR-ET--RPSWA-----------------------------
+------------------------------------------------------------
+-----------------------
+[8] 'mtToc34-1'
+M-----------------------------------------------------------
+--------------------ASQQQQVREWSGINTFAPATQTKLLELLGKLKQEDVNSLT
+ILVMGKGGVGKSSTVNSIIGERVVAISPFQSEG--------PRPVMVSRAR-----A-GF
+TLNIIDTPGLI----EGGYINDMALDIIK----RFLLD------KTID---------VLL
+YVDRLDAYRVDNLDKLVAKAITDSFGK---------------------------------
+---------GIWNKAIVALTHAQF-SPPDALAYDEFFSKRSESLLQII---KSGASLKKD
+DAQASAIPVV---------LIENSGRCN-KNETDEKVLPNGIA-------WIPHLVHTIT
+EIALNKSESIFVDKNLIEGPNPNQ--------------------------RGKLWIPVLF
+ALEFLLIMKPIEGLIKNDVAN-EK--KPSWETRDVGVKKE--------------------
+--TREVGQKDMRKERRGGAVRR--------------------------------------
+-----------------------
+[9] psToc34	
+M-----------------------------------------------------------
+--------------------ASQQQTVREWSGINTFAPATQTKLLELLGNLKQEDVNSLT
+ILVMGKGGVGKSSTVNSIIGERVVSISPFQSEG--------PRPVMVSRSR-----A-GF
+TLNIIDTPGLI----EGGYINDMALNIIK----SFLLD------KTID---------VLL
+YVDRLDAYRVDNLDKLVAKAITDSFGK---------------------------------
+---------GIWNKAIVALTHAQF-SPPDGLPYDEFFSKRSEALLQVV---RSGASLKK-
+DAQASDIPVV---------LIENSGRCN-KNDSDEKVLPNGIA-------WIPHLVQTIT
+EVALNKSESIFVDKNLIDGPNPNQ--------------------------RGKLWIPLIF
+ALQYLFLAKPIEALIRRDIAT-ET--KPAWETRDVGDRK---------------------
+------------------------------------------------------------
+-----------------------
+[10] pcToc34	
+M-----------------------------------------------------------
+--------------------AS--QIIREWSGINTFAPATQTKLLELLGKLKQENVNSLT
+ILVMGKGGVGKSSTVNSIIGERVVSISPLQSEG--------PRPVMVSRSR-----A-GF
+TLNIIDTPGLI----EGGYINDMALDIIK----RFLLN------KTID---------VLL
+YVDRLDVYRVDNLDKLVAKAITDSFGK---------------------------------
+---------GIWNKAIVALTHAQF-SPPDGLPYEDFFSQRSEALLRVL---RSGAKIKKE
+VFQAASMP----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[11] asToc34	
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------SAFQSEG--------LRPMMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVEIIK----RFLLE------KTID---------VLL
+YVDRLDTYRMDTLDEQVIRAITTSFGK---------------------------------
+---------AIWRRTLVVLTHAQL-SPPDGLDYNDFLTRRSESLLRYI---RSGAGIGKR
+ESADYPLPLA---------LVENSGRCK-TNENGAKILPDGTP-------WIPNLMKEIT
+MVVSNGSKPIHVDQKLIDGPNPNN--------------------------RWKKYIPLIL
+AVQYFFVVKGIRRAIHSDIAN-GK--LDDWEQRYRDLVGS--------------------
+--GNPVDQKVSSSRNPRPEAGQ--------------------------------------
+-----------------------
+[12] osToc34	
+M-----------------------------------------------------------
+-------------------SAA--PIPREWVGLQQFPAATQTKLHELLGKLKEENVSTLT
+ILVMGKGGVGKSSTVNSIVGERVATVSAFQSEG--------LRPMMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVEIIK----RFLLG------KTID---------VLL
+YVDRLDAYRMDTLDDQVIRAVTNSFGK---------------------------------
+---------AIWRRTLVVLTHAQL-SPPDGLDYNDFFTKRSESLLRYI---RAGAGVSKR
+ELGDFPLPIA---------LVENSGRCK-TNENGEKVLPDGTP-------WIPNLMKEIT
+TVVSNGSKSIHVDQKLIDGPNPNN--------------------------RWKMFIPLIL
+MVEYFLVVKGIRRAIHADISN-GK--LDDWEQRYRDLVGS--------------------
+--KDPVDQKGSSSGNRK----A--------------------------------------
+-----------------------
+[13] sbToc34	
+M-----------------------------------------------------------
+--------------------AS--PIPREWAGLQQFPAATQTKLHELLGKLKEEDVSTLT
+ILVMGKGGVGKSSTVNSIVGERVTTVSAFQSEG--------LRPTMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVDIIK----RFLLG------KTID---------VLL
+YVDRLDAYRMDTLDEQVIRAITNSFGK---------------------------------
+---------DIWRRSLVVLTHAQL-SPPDGIDYNDFFTRRSEALLRYI---RSGAGINKR
+EYGDFPLPIA---------LVENSGRCK-ANEHGEKILPDGTP-------WVPNLM----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[14] 'zmToc34-1'
+M-----------------------------------------------------------
+--------------------AS--PIPREWVGLQQFPPATQTELHELLGKLKEEDVSTLT
+ILVMGKGGVGKSSTVNSIVGERIATVSAFQSEG--------LRPMMWSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVDIIK----RFLLG------KTID---------VLL
+YVDRLDAYRMDTLDGQVIRAITNSFGK---------------------------------
+---------DIWRRSLVVLTHAQL-SPPDGIEYNDFFTRRSEALLRYI---HSGAGIKKR
+EYGDFPLPIA---------LVENSGRCK-TNEHGEKILPDGTP-------WVPKLMKEIT
+VVISNGSKPIHVDQKLIDGPNPNN--------------------------RWKMFIPIIL
+AVEYFLVVKGIRRAIHADIAN-GK--VDDWEQRYRDLVGS--------------------
+--RDPVEQKGSTTRNRK----A--------------------------------------
+-----------------------
+[15] 'zmToc34-2'
+M-----------------------------------------------------------
+--------------------AS--PIPREWVGLQQFPAATQTKLHELLGKLKEEDVSTLT
+ILVMGKGGVGKSSTVNSIVGERVASVSAFQSEG--------LRPMMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVDIIK----RFLLG------KTID---------VLL
+YVDRLDAYRMDTLDEQVIRAITNSFGK---------------------------------
+---------DIWRRSLVVLTHAQL-SPPDGIDYNDFFTRRSEALLRYI---HSGAGINKR
+EYGDFPLPIA---------LVENSGRCK-TNEHGEKILPDGTL-------WVPNLMKEIT
+VVISNGSSPIHVDQKLIDGPNPNN--------------------------RRKLFIPLIL
+AVEYFLVVKGIRRAIHADIAN-GK--VDDWEQRYRDLVGS--------------------
+--RDLVEQKGSTSRNRK----A--------------------------------------
+-----------------------
+[16] soToc34	
+M-----------------------------------------------------------
+--------------------AS--PIPREWVGLQQFPAATQTKLHELLGKLKEEDVSTLT
+ILVMGKGGVGKSSTVNSIVGERVTTVSAFQSEG--------LRPMMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVDIIK----RFLLG------KTID---------VLL
+YVDRLDAYRMDTLDEQVIRAITNSFGK---------------------------------
+---------DIWRRSLVVLTHAQL-SPPDGIDYNDFFTRRSKALLPYI---RSGAGIQPT
+RIWGFP-------------------PCQ--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[17] hvToc34	
+M-----------------------------------------------------------
+--------------------AA--PIPREWVGLQQFPAATQTKLHELLGKLKEENVSTLT
+ILVMGKGGVGKSSTVNSIVGERVANVSAFQSEG--------LRPMMCSRTR-----A-GF
+TLNIIDTPGLI----EGGYINEQAVEIIK----RFLLE------KTID---------VLL
+YVDRLDTYRMDTLDEQVIRAITSSLGK---------------------------------
+---------AIWRRTLVVLTHAQL-SPPDGIDYNDFLARRSESLVRYI---RSGAGIGKR
+EYADFPLPIA---------LAEDSGKGR-TNENGA--ILDGNS-------WDSKLE----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[18] brToc34	
+M-----------------------------------------------------------
+-------------------AAL--QMSREWIGIQQFPPATQSKLIEILNKFKEEDVSSLT
+VLVMGKGGVGKSSTVNSVIGEKAAAVSTFQSEG--------LRPSLVSRSR-----S-GF
+TLNIIDTPGLI----EGGYVNDQAVNLIK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[19] rrToc34	
+M-----------------------------------------------------------
+-------------------AAL--QMSREWIGIQQFPPATQSKLLEILGKFEEEDVSSLT
+VLVMGKGGVGKSSTVNSVIGERAAAVSTFQSEG--------LRPSLVSRSR-----S-GF
+TLNIIDTPGLI----EGGYVNDQAVNLIK----GFLPN------KTID---------VLL
+YVDRLDVYRVDDLDKQVVTAITDAFGK---------------------------------
+---------EIWKKSALVLSHAQF-SPPDGLNYDLFVSRRSDALLKLI---YASAQLK--
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[20] bnToc34	
+M-----------------------------------------------------------
+-------------------AAL--QMSREWIGIQQFPPATQSKLLEILGKFKEEDVSSLT
+VLVMGKGGVGKSSTVNSVIGEKAAAVSTFQSEG--------LRPSLVSRSR-----S-GF
+TLNIIDTPGLI----EGGYVNDQAVNLIK----RFLLN------MTID---------VLL
+YVDRLDVYRVDDLDKQVVTAITDAFGK---------------------------------
+---------EIWKKSALVLSHAQF-SPPDGLNYDLFVSRRSDALLKLI------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[21] boToc34	
+M-----------------------------------------------------------
+-------------------AAL--QVSREWIGIQQFPPATQSKLLEILGKFKEEDVSSLT
+VLVMGKGGVGKSSTVNSVIGEKAAAVSTFQSEG--------LRPSLVSRSR-----S-GF
+TLNIIDTPGLI----EGGYVNGQAVNLIK----RFLLN------MTID---------VLL
+YVDRLDVYRVDDLDKQVVTAITDAFGK---------------------------------
+---------EIWKKSALVLSHAQF-SPRDG------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[22] atToc34	
+M-----------------------------------------------------------
+-------------------AAL--QTLREWIGIQQFPPATQSKLLEILGKYKEEDVSSLT
+VLVMGKGGVGKSSTVNSVIGEKAAAVSTFQSEG--------LRPTLVSRTR-----S-GF
+TLNIIDTPGLI----EGGYVNDQAINIIK----RFLLN------MTID---------VLL
+YVDRLDVYRVDDLDRQVVGAITDAFGK---------------------------------
+---------EIWKKSALVLTHAQF-SPPDGLNYNHFVSKRSNALLKVI---QTGAQLKKQ
+DLQGFSIPVI---------LVENSGRCH-KNESDEKILPCGTS-------WIPNLFNKIT
+EISFNGNKAIHVDKKLVEGPNPNE--------------------------RGKKLIPLMF
+AFQYLLVMKPLVRAIKSDVSR-ES--KLAWELRDSGLASR--------------------
+--RS--------------------------------------------------------
+-----------------------
+[23] tsToc34	
+P-----------------------------------------------------------
+--------------------------------------------------TRPEDVSSLT
+VLVRGKGGVGKSSTVNSVIGEKAAAVSTFQSEG--------LRPSLVSRSR-----S-GF
+TLNIIDTPGLI----EGGYVNDGAVNLIK----GFLLN------KTID---------VLL
+YVDRLDVYRVDDLDRQVVTAITDAFGK---------------------------------
+---------EIWKKSALVLSHAQF-SPPDGL-YDLFVSRRSDS--SVI---CAGAQLKKQ
+DLQGSSIPVI---------LVENSGRC---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[24] lsToc34	
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------GERAVTVSAFQSEA--------LRPTMVSRER-----S-GF
+TLNIIDTPGIV----EGGYVNDQALEIIK----RFLLN------KTID---------VLL
+YVDRLDAYRVDTLDGQIVKAISNSFGQ---------------------------------
+---------QIWRKAIVVLTHAQL-SPPDCLSYDEFLAKRSEALLKVV---YRGARFRKL
+DIENFPIPIG---------LVENSSRCN-KNEKDEKILPNGSA-------WIPSIVETIT
+EVSLTESKSILVDQKLIDGPNPN---------------------------RGKLFIPFII
+AFQYFFV-----------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[25] 'ptToc34-1'
+M-----------------------------------------------------------
+--------------------GS---VLREWIGFQQFPTATQSKLVELFAKLKEEGVDKLT
+ILVMGKGGVGKSSTVNSLFGERAVNVSSFQSEG--------FRPVMVSRNR-----A-GF
+TLNIIDTPGLV----EGGYVSYQALDMIK----RFLLN------KTIH---------VLL
+YVDRLDAYRVDDLDKQIIGAISDSFGK---------------------------------
+---------EIWSKSLLVLTHAQL-SPPDDLSYDVFCARRSEAVLKTI---RMGARIRKR
+DFEDSAIPVG---------LVENSGRCN-KNENDEKILPNGDA-------WIPSLVKEII
+LVATNGKKLLLMRSWLVGLSQMTG---------------------------GKIFIPLIL
+GI----------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[26] 'ptToc34-3'
+M-----------------------------------------------------------
+--------------------GS---VLREWIGFQQFPTATQSKLVELFAKLKEEGVDKLT
+ILVMGKGGVGKSSTVNSLFGERAVNVSSFQSEG--------FRPVMVSRNR-----A-GF
+TLNIIDTPGLV----EGGYVSYQALDMIK----RFLLN------KTIH---------VLL
+YVDRLDAYRVDDLDKQIIGAISDSFGK---------------------------------
+---------EIWSKSLLVLTHAQL-CPPDDLSYDVFCARRSEAVLKTI---RMGARIRKR
+DFEDSAIPVG---------LVENSGRCN-KNENDEKILPSGDA-------WIPSLVKEII
+LVATNGKKALVVDEKLVNGSESND--------------------------RGKIFIPLIL
+GIQW-LLVKWIQREIKKDIAK-GG--KYL-------------------------------
+------------------------------------------------------------
+-----------------------
+[27] 'ptToc34-2'
+G-----------------------------------------------------------
+--------------------------------------------------------NKMT
+ILVMGKGGVGKSSTVNSLLGERVVNVSSFQSEG--------LRPVMVSRDR-----A-GF
+TLNIIDTPGLV----EGGYVNYQSLELIK----RFLLN------KTIN---------VLL
+YVDRLDAYRVDDLDKQIISAITDSFGK---------------------------------
+---------EIWNKSLLVLTHAQL-CPPDDLSYDVFCGRRSEAVLKTI---RMGAQI-KR
+DFEDSAIP-G---------LVENSGGCN-KSENDEKILPNGDA-------WIPTLVK-IV
+GVATNGKKSLLDQ-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[28] atToc33	
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIEFFGKLKQKDMNSMT
+VLVLGKGGVGKSSTVNSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDKQVVIAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDELSYETFSSKRSDSLLKTI---RAGSKMRKQ
+EFEDSAIAVV---------YAENSGRCS-KNDKDEKALPNGEA-------WIPNLVKAIT
+DVATNQRKAIHVDKKMVDGSYSDD--------------------------KGKKLIPLII
+GAQY-LIVKMIQGAIRNDIKT-SG--KPL-------------------------------
+------------------------------------------------------------
+-----------------------
+[29] bnToc33	
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIEFFAKLKQKDMNSLT
+VVVMGKGGVGKSSTVNSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDDLSYETFSSKRSDSLLKTI---RAGSKMGKQ
+QFEDSAIEVV---------YAENSGRCS-KNDKEEKALPNGEA-------WIPNLVKAIT
+DVATNQKKAIHVDKKMVDGSYSDD--------------------------KGKKLIPLII
+AAQY-FVVKMIQGAIRSDIKT-SG--KPL-------------------------------
+------------------------------------------------------------
+-----------------------
+[30] ovToc33	
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIGFFGKLKQKDMNSLT
+VLVLGKGGVGKSSTANSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VFL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDELSYETFSSKRSDSLFKTI---RAGSKMRKQ
+QFEDSAIEVV---------YAENSGRCS-KNEKEEKALPNGEA-------WIPSLVKAIT
+YVATNQRKAIHVDKKMVDGSYSDD--------------------------RGKKLIPLII
+GAQW-FIVKMIQGAIRNDIKT-SG--KPL-------------------------------
+------------------------------------------------------------
+-----------------------
+[31] ovToc33like
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIGFFGKLKQKDMNSLT
+VLVLGKGGVGKSSTANSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDRQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDELSYGTFSSKRSDSFLKTI---RTGSKMRKQ
+QFEDSAIEVV---------YAENSGRCS-KNEKEEKALPNGEA-------WIPGLVKAIT
+DVATNQRKAIHVDKKMVDGSYSDD--------------------------RGKKLIPLIM
+AAQY-FIVEMIQGAIRNDIKT-SG--KPL-------------------------------
+------------------------------------------------------------
+-----------------------
+[32] rrToc33	
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIEFFSKLKQKDMNSLT
+VVVMGKGGVGKSSTVNSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPDLV----EAGYVNHQALELIK----GFLVN------RTID---------VFL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDDLSYETFSSKRSDSLLKTI---RAGSKMRKQ
+QFEDSAIEVV---------YAENSGRCS-KNDKDEKALPNGEA-------WIPNLVKAIT
+DVATIQKKAIHV------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[33] boToc33	
+M-----------------------------------------------------------
+--------------------GS---IVREWVGFQQFPAATQEKLIEFFAKLKQKDMNSLT
+VVVMGKGGVGKSSTVNSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDDLSYETFSSKRSDSLLKTI---RAGSKMGKQ
+QFEDSAIEVV---------YAENSGRCS-KNDK---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[34] thToc33	
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------LDLIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDELSYETFSSKRSDSLLTTI---RAGAKMRKQ
+QFEDSAIAVV---------YAENSGRCS-KNEKEEKALPNGEA-------WIPNLVKSIT
+DVATNQKKAIHVDNKMVDGSQSDD--------------------------KGKKLIPLII
+GAQY-FIVKMIQGAIRNDIKI-SG--KPV-------------------------------
+------------------------------------------------------------
+-----------------------
+[35] brToc33	
+M-----------------------------------------------------------
+--------------------GS---LVREWVGFQQFPAATQEKLIEFFTKLKQKDMNSLT
+LVVMGKGGVGKSSTVNSLIGEQVVRVSPFQAEG--------LRPVMVSRTM-----G-GF
+TINIIDTPGLV----EAGYVNHQALELIK----GFLVN------RTID---------VLL
+YVDRLDVYRVDELDKQVVQAITQTFGK---------------------------------
+---------EIWCKTLLVLTHAQF-SPPDDLSYETFSSKRSDSLLRTI---RAGSKMGET
+TV----------------------GFCN--------------------------------
+--------------GCVCGETVED------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[36] grToc34	
+M-----------------------------------------------------------
+--------------------GT--PLPREWLGLQQFPAATQTKLFELLGKLKQENVNTLT
+IVVMGKGGVGKSSTINSLIGEQVVRVTAFQSEG--------LRPVMVSRSW-----A-GF
+TLNVIDTPGLV----EAGYVNHQALELIK----GFLLN------KTID---------VLL
+YVDRLDVYRVDNLDKQIIRAITNSFGK---------------------------------
+---------EIWRKSLLVLTHAQL-CPPDGLNYDVFSSKRSEGVLKAI---RMGARIRKM
+DLEDSVIPVV---------LVENTGRCN-KNDIDEKILPNGEA-------WVPNFGKSH-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[37] amToc34	
+M-----------------------------------------------------------
+--------------------AA--QLIKEWSAIQQFPAATQEKLVDLLGKLKNQDVNTLT
+ILVMGKGGVGKSSTINSIIGERVVTVSAFQSET--------PRPVMVSRSR-----S-GF
+TLNVIDTPGLV----EGGYVNDQVLETIKSFLGRFLMN------KTID---------VLL
+YVDRLDAYRVDNLDKQIVKAITESFGK---------------------------------
+---------EIWHKAVVVLTHAQL-SPPDALSYEEFFSRRSDSLLKFV---CQGAGINKK
+DLKNFDIPVA---------LVEN-------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[38] laToc34	
+M-----------------------------------------------------------
+--------------------TS--PITREWAGFNTFPPETQTKLLELLGRLKEKNVNKLT
+ILVMGKCGVGKSSTVNSIIGERAVVINPFQSEG--------LRPVMVSRSR-----T-EF
+TLNIIDTPGII----EGGCINNQALELIK----HFLLN------KTID---------ILL
+YVDRLDTYRVDELDKMVVRAITNSFGK---------------------------------
+---------EIWNRALIVLTHAQL-SPPDGLPYDEFVSKRSEALLKVV---HQGARLKKG
+DLASS-IPSV--------------SRCN-KNDSGEK-GPNGTA-----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[39] peToc34	
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------IVGERVAIVSAFQSEA--------MRPLICSRSR-----A-GF
+TLNIIDTPGLI----EGGFVNDHALDLIK----RFLIN------KTID---------ILL
+YVDRLDGYRVDDLDMQVTKAISKSFGQ---------------------------------
+---------QIWRRGLVVLTHAQL-SPPDELRYADFVDRRSAILQAVV---RKAAGFKKS
+ETQ---IPVV---------LVENSGRCN-TNSGGEKVLSDGTV-------WLPYLVEKIV
+EVATNGSKPILIDKKLIEGPDANQ--------------------------WGKRWIPLFL
+AFQYFFIVKPIRRGIQKDIQR-EKSERPAWEIYDETGDKTI-------------------
+------------------------------------------------------------
+-----------------------
+[40] 'ppToc34-1'
+M-----------------------------------------------------------
+--------------------AA--TPAREWTGLQQFPVATQTALHNILGTLRQQNKESLT
+VLVVGKGGVGKSSTVNSIVGERVTIVSAFQSET--------LRPLQCARSR-----A-GF
+TLNIIDTPGLV----EGGCINDQALDIIK----RFLLS------KTID---------VVL
+YVDRLDGYRVDNLDRQVIRGLARSFGP---------------------------------
+---------NFWRLAVIVLTHAQF-SPSDGVNYTEFVEKRSAALQAAI---RQEAGLKKD
+EKE---VPYA---------LVENSGRCN-TNDGGEKILPNGTV-------WLPALVERIV
+EVATGTTDSVFVDKKLIDGPNANE--------------------------WGKWWIPVLA
+VAQYFLVVMPIRKAIEKDLAE-EKNQRPQWEIRAEEFRRN-TSLYDDDQVDEQAISQALE
+QDDGLSGQPSSFVDEDDDDDEF--------------------------------------
+-----------------------
+[41] 'ppToc34-3'
+M-----------------------------------------------------------
+--------------------AA--TQAREWTGLLQFPVATQTALHNILGKLRQQKKESLT
+VLVVGKGGVGKSSTVNSIIGERVTVVSAFQSET--------LRPLQCARTR-----A-GF
+TLNVIDTPGLI----EGGCINDQALDIIK----RFLLN------KTID---------VVL
+YVDRLDGYRVDNLDKQVIRALARSFGP---------------------------------
+---------NFWRIAIIALTHAQL-SPPDGVDYTEFVNNRSAALRAAI---RQEAGFKKS
+EGE---ISYM---------LVENSGRCN-TNSEGEKVLPNGSV-------WLPALVDRIA
+EVATGATPSIHVDQKLIDGPNANG--------------------------KGKWWIPLII
+LAQYFLIVRPIRSAIEKDLIE-EEKQRPQWQIRAEEFVRPIASLYEDDQVDEQAIRQALK
+Q-GALNDQMDSFVEDDEDDDEY--------------------------------------
+-----------------------
+[42] 'ppToc34-2'
+M-----------------------------------------------------------
+--------------------AT--VSEKEWTGFQGLPAATQIILHTLLAKLRKQKVDKIT
+IVLLGKGGVGKSSIVNSLFSERVAAVSAFRSET--------LRPRQYSRSK-----D-GF
+KLTVIDTPGFV----EAGRV-DAALNSIR----RYLLG------KTIN---------VVL
+YVDRLDGPREDKVDVKISRAISQAFGP---------------------------------
+---------QIWPHVIVVFTHAEI-HLED-VTYSEFVSRRSAALRNII---LKESRFKTV
+NTK---VPFV---------LVENCSRCS-ENGEHEKILPDGTV-------WLPVLFEALV
+DLVLGSKKPILIDEKMIGIPKGNP--------------------------LGSIWMPLVL
+LAQFVLIWRPIRKAIDRDLVE-EAQRHSP-------------------------------
+------------------------------------------------------------
+-----------------------
+[43] olToc34
+M----------------------------------------------SEEEYSEDEDYVS
+SEGEGVEGTEEGGEGQPAQAAAPVLGPKEWVGLSSMPAATQSALLETLGKLRERNVNEMT
+VIFIGKQGVGKSSTVNTLLNERVAPSSPFQPEN--------VRPLLAGRVA-----A-GF
+TLNVLDTPGLL----EGDSVSARGLMALR----AALNG------RKVD---------AFV
+FTDRLDTWRVDNADKAIFTSLAENFGA---------------------------------
+---------ELWERTVLGFSHAQT-TPTDGRPYEEFVNARVEQYRKAI---RSTLNM---
+--PNLALPFA---------LIENGSRCK-TNGNGEKVV-NDRP-------WLSDMVSTMV
+EMACSKDGYEYDHGKAGKKLDPNN--------------------------KHKIWILPLF
+LFQAFVLRPLVIGQIRRDIKK-ADEKKQRAAAAKH-------------------------
+------------------------------------------------------------
+-----------------------
+[44] otToc34
+M----------------------------------------------SDEEYSEDE-YVS
+SEGEGAEGRDVEPQ---AQQAAPVLGPKEWVGLSSMPAATQQALLETLGKLRERNVNEMT
+VIFIGKQGVGKSSTVNTLLNERVAPSSPFQPEN--------ARPLLAGRVA-----A-GF
+TLNVLDTPGLL----DGDSISARGLMALR----AALNG------RKVD---------AFI
+FTDRLDTWRVDNSDRAIFTALAENFGA---------------------------------
+---------ELWERTVLGFSHAQT-TPPDGKPYEEFVNARVEQYRKAI---RQTLGM---
+--PNLTLPFA---------LIENGSRCK-ANAAGEKVV-NERP-------WLTDMVGTMV
+EMACAKESYEYDHKKAGKKLDPNN--------------------------KYKIWMLPLF
+LFQAFVLRPLMIGQIRRDIRK-SDEDKKKKSARPAPKK----------------------
+------------------------------------------------------------
+-----------------------
+[45] crToc34
+M------------------------AQPPRPAEEYDDDVQEDEDELKEGELDDDESHEAA
+SEGGEAAAGDEEAEDDEQDEEDGDEDSQPWAGLNRLP--ERDDMLDILNELRAEGRKQLT
+VLLLGKSSVGKSSLINSLLGEAVVRVQAFKLQADTDITTTVVRQVAVGNSE-----VDGF
+RLKLIDTCGLE-DPEAGDTVNLGALSKIA----EDVRG------VGID---------VVL
+YCDRLDLYRVDPLDKAIIDAISSTFGR---------------------------------
+---------GIWRRTVVALTHANLVQTPPGTDYDSFVNGRVRLIRGAV---RGPLFFR--
+----PSLPVA---------LVENSETCPVSSESGFRVLPDGEP-------WLVALVSQLV
+DMAAARRRPYKYHPRLSSKPSH----------------------------RFRWLLPVAI
+AAEVLFYRRFLHPRLDDNQRRVEREEERVWALRGQQRRAL--------------------
+------------------------GLHRPHRPDKDAAWRLEQMYDDD-------------
+-----------------------
+[46] pwToc34
+V-----------------------------------------------------------
+-------------------------------------------LALAECSGDRQRTGASR
+CCCWEREAWARVATVNSLLGERAAVVSSFQATG--------LGVHMHTRTL-----PGGF
+ALNLIDTPSLL----DQDSVSTSRLEQIG----SAIKG------VKID---------AVL
+FLDRLDVYSTDTLDEQVVDGVTAYFGE---------------------------------
+---------DMWDHAVLGLTRATSSAPPLSTDFGEWVVERSLQLQSLIAKARAQYAPRRR
+RGEAPPLTPA---------GCRESQECP-RKLRGSGSSPATAP-------GSPTCMPRWR
+SAATGAGQAWLHDAARR-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+[47] F.cylindrus_4
+M-----------------------------------------------------------
+-------------------------------------NTNTTTITNVNNDDHQQQHRCGY
+AGIVGAPNMGKSTLLNSLLKEDLCIATRRPQTT--------RHAILGVLSS-----P-TK
+QCCLLDTPGVL----QGDGA--YQLQ-------ANMMEAVKGALTDSD---------MIV
+VVTDLFSTPIPD-DNVFRRLS---------------------------------------
+---------ETTKPVLVVVNKIDL-EGRAKRPDEATIQRKKDDEEEEEDEFEKTYT----
+-------------------VVEAVEKWRLLLPNALAIIPLTAPIPGMFRNGVKSLTNDDV
+KQLLPIGPPLYDDDFLSDRSVRFF------------------------------------
+------CSELIREALLESRYL-KKELPYCCEVQITDYKEPR-----------------DD
+NITRIEATIFVERDGQKAIIIGK-NGDVVKQVGIIAREKIERFLDGEKVFLQLRVKINKD
+WRKREDQLAKFGYSN--------
+[48] 'P-N.multiseries_3'
+M------------------------------------SPSQNENSKKQRSGKSKSKKNIE
+KKRPADTLLILKQLDEKINSYEGRLPSKMPANLDTDNDRSSTGFADTNNIQH-EQHRCGF
+VGIVGAPNMGKSTLLNGLLKEDLCIATRRPQTT--------RHAILGVLSS-----P-TR
+QCCLLDTPGVL----QGDGA--YKLQ-------ANMMEAVKGALKDSD---------VLL
+VVTDMFSTPIPN-DEIFRRLS---------------------------------------
+---------LTNKPVLVVVNKIDL-EGRAQRPTETDGEEKKND-EDDEDEVEKTYT----
+-------------------VAEAVAKWRMLLPDALAIIPMTAT-----------------
+--LLPVGPPLYDDDFLSDRSVRFF------------------------------------
+------CSELIREALLESRYL-KKELPYCCEVQITEYKEPR----------------KEK
+DLTRIEATIFVERDGQKAIVVGK-NGSVIKQVGIVAREKIERFLDGEKIFLKLQVKVDKD
+WRKKDDALTKFGYTNK-------
+[49] P.tricornutum_3
+------------------------------------------------------------
+------------------------------------------------------------
+---MGAPNMGKSTLLNALLEEDLCIATARPQTT--------RHAILGLMST-----D-KC
+QVCLVDTPGVI----E-DPA--YELQ-------EGMMEAVTGAVATSD---------VLL
+VVTDVFSTPIPD-DELFLKVQ---------------------------------------
+---------RTRKPVLVAINKIDL--------------AKKVN-KAAEENRDKTVT----
+-------------------VEEAVAFWRAQLPNALCILPLSAS-QGINNVGVVAM-RRIL
+TELLPISPPLYDPETLTDRPERFI------------------------------------
+------ASEIVRSALFQ--VL-KKELPYCCEVRIREFKEPK----------------EEG
+EVIRIAADVLVERDSQKVIVIGK-NGAQVKEIGVIAREKLEAFFR-HQIFLNLSVKVDKD
+WRKNTRKLTEYGYMKPKR-----
+[50] T.pseudonana_2
+MLLPITFNGFVLIGCAVLRSTHLASSTNTVAFVPSASSIRSTSSTHHQHTVLFAESGNKY
+AKEDKQTQQELLQTLESKFDYEGRIASKVGDGDNSSTDTSTTN----------PSHRCAL
+VTILGKPNMGKSTLLNSLLSDNLAIATSRPQTT--------RHAILGVMTS-----D-HN
+QLCLTDTPGII----D-KTA--YKLQ-------DGMMDVVKGAVKSAD---------LFL
+VVTDEEDPYLGIGEDTVKMIK---------------------------------------
+---------QMEKPVIVCVNKVDL-ASVDKSSV----------------YVNTPPL----
+-------------------AVQTIGKWRALLPNAFAIIPTCAA----------------N
+VDLLPIGPPLYHPDFFTDRTDRFC------------------------------------
+------ASELIRETLFE--TL-GKELPYCCEVRVETFDESK-----RYLDEDSVGSGKNK
+SMIRIGATILVERDSQKGIVVGK-GGQQIKDLGMNARKKLQVFFD-TKIFLDLRVKVDKN
+WRNNAEKLKKYGYMQ--------
+[51] NODE_3830936_27
+A-----------------------------------------------------------
+-------------------------------------GCRRTGVEKTGAGMSIDKSYCGF
+IAIVGRPNVGKSTLLNKLLGQKISITSRKAQTT--------RHRIVGIHTE-----G-AY
+QAIYVDTPGLH-------MEEKRAIN-------RLMNKAASSSIGDVE---------LVI
+FVVEGTRWTPDD-EMVLNKLR---------------------------------------
+---------EGKAPVILAVNKVDN-VQEKADLLPHLQFLASQM-----------------
+--------------------------------NFLDIVPISAE-----TGLNVDTIAAIV
+RKHLPEATHHFPEDYITDRSQRFM------------------------------------
+------ASEIIREKLMR--FL-GAELPYSVTVEIERFVSNE------------------R
+GGYDINGLILVEREGQKKMVIGN-KGAKIKTIGIEARKDMQEMFE-APVHLELWVKVKSG
+WADDERALRSLGYVDDL------
+[52] F.cylindrus_2
+M-------------------------------FKNAVLFPQRRARTWLWNNS--NTTTDA
+CR--------ANLSYAIE-RCCSSSSSSSSSQSQSQSQSQSQSTLQQS--PSTIGRKRLD
+VAIVGAPNAGKSQLVNILTQSPVAAVSRKRHTT--------RSDILGARTI-----G-NT
+QIVFKDTPGFM----RIENAKEERLD-------RDLIATAASEMQDVD---------FTL
+LVIDSARALSENYRHA--------------------------------------DDDANP
+NSN------DGRGKFAIVLNKVDL-VKPKSTLIDLAMEIGAIADTCLEDHFTEHGK----
+-----------------------TIDFEAMLEHSPIVFYVSAL----KEDGTDDLLDHLI
+NLATPCKEWAVQSGQSTNMTELEQ------------------------------------
+------VQEIIREKIYR--TC-HREVPHSVQQVNRMFRKIP------------------K
+KGVIIHQDLVVFTKSHQKLVLGA-GGRTLERIRESAQTDLRKMFK-CEVSLHLHVK--KK
+IGRRGDSGTEYKLGEASQTIL--
+[53] F.cylindrus_1
+M-------------------------------------QLEPVQRSIVQNQSLLLSIAAD
+VMCFIARSIIAHTEYCIQYRCCSSSSSSSSSQSQSQSQSQSQSTLQQS--PSTIGRKRLD
+VAIVGAPNAGKSQLVNILTQSPVAAVSRKRHTT--------RSDILGARTI-----G-NT
+QIVFKDTPGFM----RIENAKEERLD-------RDLIATAASEMQDVD---------FTL
+LVIDSARALSENYRHAFVQLMTGAINSKGRIEESFGDDNEIDDKSSIHNNNKSSDDDANP
+NSN------DGRGKFAIVLNKVDL-VKPKSTLIDLAMEIGAIADTCLEDHFTEHGK----
+-----------------------TIDFEAMLEHSPIVFYVSAL----KEDGTDDLLDHLI
+NLATPCKEWAVQSGQSTNMTELEQ------------------------------------
+------VQEIIREKIYR--TC-HREVPHSVQQVNRMFRKIP------------------K
+KGVIIHQDLVVFTKSHQKLVLGA-GGRTLERIRESAQTDLRKMFK-CEVSLHLHVK--KK
+IGRRGDSGTEYKLGEASQTIL--
+[54] 'P-N.multiseries_2'
+M------------------------RKIAGATVKEASLVLRRYHRPALGNSSIIGGNTGW
+LS--------SQASSRVK-FLSSSSPSSTRRQSPPASRPQAAAT------AQNRTRKRLD
+VAIVGPPNAGKSQLVNVLTKSPIAAVSRKRHTT--------RSDLLGARTV-----G-NT
+QIVFKDTPGFL----RIENAKEERLD-------RDLIATAASEMQDVD---------FTL
+LVLDSARTLSDNYRHALVQLMVGAINSGGRIEDCDDDDDNNDRKTT-----RQSREDINP
+SSKCDTAIPSDKSKFAIVLNKVDL-VKPKTDLISLAMDVGTMADTCLLDQFQKQGR----
+-----------------------EFDFDAQMEQSPIVFYVSAL----KEDGTDDLLEHLL
+GLATPSREWPVEPGKATNMTTLEQ------------------------------------
+------VQEVIREKIYR--ST-HKEVPHAVQQVNRLFRRIP------------------N
+KGVVIHQDLVVFTKSHQKLVLGSGGGKTLKRIQESARHDLQKLFG-CDVALQLHVKYRKS
+KQQRGDSGAQYNLGEVSQSVY--
+[55] 'P-N.multiseries_1'
+M------------------------RKIAGATVKEASLVLRRYHRPALGNSSIIGGNTGW
+LS--------SQASSRVK-FLSSSSPSSTRRQSPPASRPQAAAT------AQNRTRKRLD
+VAIVGPPNAGKSQLVNVLTKSPIAAVSRKRHTT--------RSDLLGARTV-----G-NT
+QIVFKDTPGFL----RIENAKEERLD-------RDLIATAASEMQDVD---------FTL
+LVLDSARTLSDNYRHAL---------------------------------------DINP
+SSKCDTAIPSDKSKFAIVLNKVDL-VKPKTDLISLAMDVGTMADTCLLDQFQKQGR----
+-----------------------EFDFDAQMEQSPIVFYVSAL----KEDGTDDLLEHLL
+GLATPSREWPVEPGKATNMTTLEQ------------------------------------
+------VQEVIREKIYR--ST-HKEVPHAVQQVNRLFRRIP------------------N
+KGVVIHQDLVVFTKSHQKLVLGSGGGKTLKRIQESARHDLQKLFG-CDVALQLHVKYRKS
+KQQRGDSGAQYNLGEVSQSVY--
+[56] P.tricornutum_1
+M-----------------------------------------------------------
+------------RPTFIRTALVTFRWSGGPKISRSDRVRLSSTTIGST--PSLEDRKRLD
+VAIVGLPNAGKSQLLNVLTQSTVAAVSRKRHTT--------RDGILGARTV-----D-DT
+QLYFVDTPGFL----RQSQAKKEGLN-------RDLVVTASSEMENVD---------FSL
+LVVDAARRMTDDYEETLVALMLAALRSQGRLEFDVHSAEEVQSIRTPKGG----------
+---------TNPAKFAVVLNKVDL-VHPKSNLMDLAVNIGTLAEQCIKFDAKESGK----
+--------------------EELFLDSAYLQESLPMFFYISAL----KQRGVQDLLEFLL
+ERATPSTSWEVEAGEATPMTMKER------------------------------------
+------IEEVIREKIYR--CL-HKEVPHSIRQENRVLQQGK--------------DEDGN
+IVLVIHQDLIVRSKSHQELVHGG-GGRTLERIRETAARGLEKIFF-CNVVLHLHVKLPRS
+KNQRWSI----------------
+[57] T.pseudonana_1
+M-----------------------------AFFRRALLQGSLAVNNLTHDTW--------
+----------HQTPRAIT-SLLNHQQSCSLHSTPITLNNPTSSSAATTQSDKPAPQKRLD
+VAIVGAPNAGKSQLLNSLIGSKVAAVSRKRHTT--------RTGILGARTF-----D-DT
+QLVFIDTPGFL----HHEMSVKEGV--------RKLLGEASSEMESAD---------FVL
+LVVDAARKMEDDLRRTLVTLMFLALRSKGRNE----------------------------
+--------------FAVVLNKVDL-VSPKEKLLMTAADVGSMAESCIRQFLNQRRSPSKV
+KFGELVDTVLKNYANEDGFDGVHDDDIELFATLAPEFFFTSAI--VKDDEGVDDVLGLLL
+ERATLSDQWIVDAGSATGMTPVEQ------------------------------------
+------VEEIIREKIYR--CL-HREVPHSVQQQNRMFQLYKPNESKTKSTDGSDVDEDI-
+KILRIRQDLIVRTKSHQRLVLGS-GGKTLERIRSTALKDLEESFD-CIVDLDLTVRVTKS
+-NQHEAILDPESVGAVSLTPLEN
+[58] T.oceanica_1
+M-----------------------------FGIRRLVVGGSVRHGGHARGRP--------
+----------LPCPACPT-GPDISSSASSLLSRTMTSYFDGGPSAPET--SRPKQQRRLD
+IAIVGAPNAGKSQLLNSLVGSKVAAVSRKRHTT--------RSGILGARTF-----G-DT
+QLVFIDTPGFL----HHSKGAREGV--------RNLLSEASAEMMNAD---------FAL
+LVVDAAKTIDQDLKRTLVTLMMLALRSTGREEGSRVFSDQ--------------------
+---------RHLGRFSVVLNKVDL-VKPKEKLLATAAEVGSLAESCVRRLLQQHRAPVRV
+KMGELVDSVLERHEDEEGFAGVHEEDYETFASVVPEFLFTSAI--DPEDEGADDLLNVLL
+SRATPSTEFVMDPS-----SNLEQ------------------------------------
+------VEEIIREKIYR--CL-HREVPHHVQQTNRVFKLKQ------DQPPDHDVRADMG
+DLLQIHQDLIVRTKSHHRLVLGS-GGKTLQRIQTTASKDLRELFG-CEVDLLLSVKLKKT
+---NQGVLLDPEEEGARITTLHD
+[59] NODE_3217431_10
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------DAR----SGEGVADIIGHLG
+AMATPSQHWPVPAGLATNQSMEER------------------------------------
+------IQEMIREKIYR--CL-HREVPYAVDQQNRLLK----------------------
+------------------------------------------------------------
+-----------------------
+[60] NODE_5633892_22
+R-----------------------------------------------------------
+------------------QSISTEINLQDARSKQALPRPDAELM------ESITTKKRLD
+VAIVGLPNAGKSQLLNVLTESTVSAVSRKRHTT--------REGILGARTIFPEPGE-GI
+QFVFVDTPGFL----KHDPKNPERLE-------RKLVVSATVAMRTVD---------YTL
+IVVDAARNLGNE------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------
+;
+END;
+BEGIN NOTES;
+  TEXT TAXON=47 TEXT='jgi|Fracy1|190984|jgi|Fracy1|190984|e_gw1.11.73.1:28-347
+';
+  TEXT TAXON=48 TEXT='jgi|Psemu1|253210|jgi|Psemu1|253210|estExt_Genewise1Plus.C_650095:87-387
+';
+  TEXT TAXON=49 TEXT='gi|219124036|ref|XP_002182319.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1] >gi|217406280|gb|EEC46220.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1]
+';
+  TEXT TAXON=50 TEXT='gi|224012853|ref|XP_002295079.1| predicted protein [Thalassiosira pseudonana CCMP1335] >gi|220969518|gb|EED87859.1| predicted protein [Thalassiosira pseudonana CCMP1335]
+';
+  TEXT TAXON=51 TEXT='[157 - 1101] length_3162_cov_13.956673
+';
+  TEXT TAXON=52 TEXT='jgi|Fracy1|187133|jgi|Fracy1|187133|e_gw1.7.947.1:43-377
+';
+  TEXT TAXON=53 TEXT='jgi|Fracy1|226249|jgi|Fracy1|226249|fgenesh2_pm.7_#_308:48-420
+';
+  TEXT TAXON=54 TEXT='jgi|Psemu1|8240|jgi|Psemu1|8240|gm1.8240_g:60-428
+';
+  TEXT TAXON=55 TEXT='jgi|Psemu1|252849|jgi|Psemu1|252849|estExt_Genewise1Plus.C_570066:60-394
+';
+  TEXT TAXON=56 TEXT='gi|219112517|ref|XP_002178010.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1] >gi|217410895|gb|EEC50824.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1]
+';
+  TEXT TAXON=57 TEXT='gi|224003597|ref|XP_002291470.1| gtp-binding protein [Thalassiosira pseudonana CCMP1335] >gi|220973246|gb|EED91577.1| gtp-binding protein [Thalassiosira pseudonana CCMP1335]
+';
+  TEXT TAXON=58 TEXT='gi|397590707|gb|EJK55129.1| hypothetical protein THAOC_25171 [Thalassiosira oceanica]
+';
+  TEXT TAXON=59 TEXT='[208 - 2] (REVERSE SENSE) length_180_cov_17.744444
+';
+  TEXT TAXON=60 TEXT='[421 - 2] (REVERSE SENSE) length_391_cov_5.074169
+';
+END;
